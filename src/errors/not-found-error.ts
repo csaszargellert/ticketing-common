@@ -5,7 +5,7 @@ export class NotFoundError extends CustomError {
   error = 'Not Found';
 
   constructor() {
-    super('Not Found');
+    super('Not found');
 
     Object.setPrototypeOf(this, NotFoundError.prototype);
   }
