@@ -1,5 +1,5 @@
 {
-  "name": "@cgticketing/common",
+  "name": "@gellert-ticketing/common",
   "version": "1.0.1",
   "description": "",
   "main": "./build/index.js",
